@@ -1,4 +1,4 @@
-\# Verilog RTL Design \& Verification Practice
+# Verilog RTL Design \& Verification Practice
 
 
 
@@ -6,27 +6,27 @@ This repository contains Verilog RTL design modules and testbenches implemented 
 
 
 
-\## 📁 Included Projects
+## 📁 Included Projects
 
 
 
-\- \*\*Clock Divider:\*\* Clock frequency division logic and testbench.
+- **Clock Divider:\*\* Clock frequency division logic and testbench.
 
-\- \*\*Mealy Overlapping Sequence Detector:\*\* Mealy state machine implementation and testbench.
+- **Mealy Overlapping Sequence Detector:\*\* Mealy state machine implementation and testbench.
 
-\- \*\*Moore Overlapping Sequence Detector:\*\* Moore state machine implementation and testbench.
+- **Moore Overlapping Sequence Detector:\*\* Moore state machine implementation and testbench.
 
-\- \*\*Multi Output Clock:\*\* Clock divider module and testbench.
+- **Multi Output Clock:\*\* Clock divider module and testbench.
 
-\- \*\*Serial to Parallel Data Converter:\*\* Serial to parallel data converter and testbench.
-
-
-
-\## 🛠️ Tools \& Simulation
+- **Serial to Parallel Data Converter:\*\* Serial to parallel data converter and testbench.
 
 
 
-\- \*\*Language:\*\* Verilog HDL
+## 🛠️ Tools \& Simulation
 
-\- \*\*Simulator:\*\* Xilinx Vivado
+
+
+- **Language:** Verilog HDL
+
+- **Simulator:** Xilinx Vivado
 
